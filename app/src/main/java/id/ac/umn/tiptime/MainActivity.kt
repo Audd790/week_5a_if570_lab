@@ -2,8 +2,6 @@ package id.ac.umn.tiptime
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import id.ac.umn.tiptime.databinding.ActivityMainBinding
-import java.text.NumberFormat
 
 class MainActivity : AppCompatActivity() {
 
