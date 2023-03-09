@@ -3264,6 +3264,7 @@ int id textinput_prefix_text 0x7f0801c4
 int id textinput_suffix_text 0x7f0801c5
 int id time 0x7f0801c6
 int id tip_options 0x7f0801f3
+int id tip_result 0x7f0801f4
 int id title 0x7f0801c7
 int id titleDividerNoCustom 0x7f0801c8
 int id title_template 0x7f0801c9

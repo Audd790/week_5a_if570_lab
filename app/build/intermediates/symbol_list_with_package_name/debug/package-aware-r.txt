@@ -3265,6 +3265,7 @@ id textinput_prefix_text
 id textinput_suffix_text
 id time
 id tip_options
+id tip_result
 id title
 id titleDividerNoCustom
 id title_template

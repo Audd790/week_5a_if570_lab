@@ -17,6 +17,7 @@ id option_twenty_percent
 id round_up_switch
 id service_question
 id tip_options
+id tip_result
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round

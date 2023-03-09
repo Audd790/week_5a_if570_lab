@@ -15,7 +15,7 @@
     <string name="how_was_the_service">How was the service?</string>
     <string name="ok_service">Okay (15%)</string>
     <string name="round_up_tip">Round up tip?</string>
-    <string name="tip_amount">Tip Amount</string>
+    <string name="tip_amount">Tip Amount %s</string>
     <style name="Theme.TipTime" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
